@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>どこぶぶ</title>
+<title>ぶぶぶぶ</title>
 </head>
 <body>
-<h1>どこぶぶへようこそ</h1>
+<h1>ぶぶぶぶへようこそ</h1>
 <form action="/docoTsubuH/Login" method="post">
 ユーザー名：<input type="text" name="name"><br>
 パスワード：<input type="password" name="pass"><br>
