@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>ぶぶ</title>
+<title>ぶ</title>
 </head>
 <body>
 <h1>ぶぶへようこそ</h1>
