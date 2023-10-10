@@ -14,8 +14,8 @@ public class MutterDAO {
   // データベース接続に使用する情報
   private final String JDBC_URL =
       "jdbc:mysql://localhost:3306/docotsubu";
-  private final String DB_USER = "root";
-  private final String DB_PASS = "0827yuki";
+  private final String DB_USER = "*";
+  private final String DB_PASS = "*";
 
   public List<Mutter> findAll() {
     List<Mutter> mutterList = new ArrayList<Mutter>();
